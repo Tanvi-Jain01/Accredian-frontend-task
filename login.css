@@ -1,0 +1,70 @@
+  body {
+    background: url(./bg4.jpg) no-repeat center; 
+    background-size: 100% 100%; 
+    background-attachment: fixed;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    margin: 0;
+   
+}
+
+.box {
+    max-width: 300px;
+    max-height: auto;
+    margin: auto;
+    /* padding: 10px; */
+    border: 1px solid #ccc;
+    align-items: center;
+    justify-content: center;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+    background-color: #ffffff;
+}
+
+.box h1 {
+    text-align: center;
+    color: orangered;
+}
+
+input {
+    
+    margin: 5px;
+    padding: 5px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    font-size: 16px;  
+    width:auto;
+    
+}
+
+input:hover {
+    border-color: orangered;
+}
+
+.submit1 {
+    text-align: center;
+    margin-top: 10px;
+}
+
+.submit1 button {
+    background-color: #ffffff;
+    color: orangered;
+    border: none;
+    cursor: pointer;
+}
+
+.box .submit button {
+    background-color: orangered;
+    color: white;
+}
+
+.submit1 button:hover {
+    text-decoration: underline;
+}
+
+.box .submit button:hover {
+    background-color: rgba(255, 68, 0, 0.685);
+    color: white;
+}

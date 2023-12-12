@@ -1,0 +1,21 @@
+.homee {
+  background: url(./bg4.jpg) no-repeat center; 
+  background-size: 100% 100%; 
+  background-attachment: fixed;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  margin-bottom: -100px;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 26px;
+  letter-spacing: 0.5px;
+  line-height: 1.6;
+  
+
+}
+
+.homee h1{
+
+  color:black;
+}

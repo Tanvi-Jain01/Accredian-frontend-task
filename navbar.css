@@ -1,0 +1,21 @@
+
+.navbar{
+position: fixed;
+top: 0;
+right: 0;
+padding: 10px;
+background-color: #1d1b1b; /* Gray background */
+
+}
+
+.navbar a{
+
+    color:#dad1d167;
+    padding: 0 20px; /* Adjust padding for spacing */
+    text-decoration: none;
+}
+
+.navbar a:hover{
+    
+    color:orangered;
+}

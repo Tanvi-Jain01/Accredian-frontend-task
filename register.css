@@ -1,0 +1,82 @@
+/* Add this CSS to your stylesheet or in a style tag within your component */
+body {
+    background: url(./bg4.jpg) no-repeat center; 
+    background-size: 100% 100%; 
+    background-attachment: fixed;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    margin: 0;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 16px;
+    letter-spacing: 0.5px;
+    line-height: 1.6;
+  
+  }
+
+.box {
+  max-width: 400px;
+  /* margin: auto; */
+  padding: 20px;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+  background-color: #ffffff; /* White background */
+} 
+
+h1 {
+  text-align: center;
+  color: orangered; /* Blue color */
+}
+.inputtypes {
+    display: flex;
+    flex-direction: column; /* Stack children in a column */
+    align-items: center; /* Center items horizontally */
+}
+.inputtypes input {
+  margin-bottom: 10px;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  font-size: 16px;
+  max-width: 400px;
+  align-items: center;
+  justify-content: center;
+}
+
+.submit {
+  text-align: center;
+}
+
+/* Style for the Submit button */
+.submit button {
+  background-color: orangered; /* Blue color */
+  color: #ffffff; /* White color */
+  padding: 10px 20px;
+  border: none;
+  border-radius: 4px;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+.submit button:hover {
+  background-color: orangered; /* Darker blue color on hover */
+}
+
+/* Optional: Style for the Confirm Password input */
+/* .inputtypes input[name='cpswd'] {
+  border-color: #3498db; /* Blue color for Confirm Password input }*/
+
+
+/* Optional: Style for the placeholder text */
+
+.inputtypes input::placeholder {
+  color: gray; /* Blue color for placeholder text */
+}
+
+.inputtypes input:hover{
+    border-color: orangered;
+
+}
+
