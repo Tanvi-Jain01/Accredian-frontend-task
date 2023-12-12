@@ -1,4 +1,4 @@
-# Accredian-frontend-task (https://snazzy-medovik-9ecd66.netlify.app/login)
+# Accredian-frontend-task (https://snazzy-medovik-9ecd66.netlify.app/)
 This is the Internship task of Accredian- A web App using Reactjs, MaterialUI and Css.
 
 ## HOMEPAGE
