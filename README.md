@@ -13,5 +13,12 @@ This is the Internship task of Accredian- A web App using Reactjs, MaterialUI an
 ## PASSWORDS DO NOT MATCH
 ![Screenshot (1341)](https://github.com/Tanvi-Jain01/Accredian-frontend-task/assets/123053700/352a6cf0-7e61-4472-9346-749a706c91ac)
 
+## Login Page
+![image](https://github.com/Tanvi-Jain01/Accredian-frontend-task/assets/123053700/58037f37-03b0-4c67-952b-5b02f55301ba)
 
-![Screenshot (1340)](https://github.com/Tanvi-Jain01/Accredian-frontend-task/assets/123053700/09a16f7a-c862-490c-8f0d-39dfceef1a83)
+## Sign up page
+![image](https://github.com/Tanvi-Jain01/Accredian-frontend-task/assets/123053700/3877b51a-3028-4919-a40d-fdb42ed85009)
+
+## Footer
+![image](https://github.com/Tanvi-Jain01/Accredian-frontend-task/assets/123053700/89a02c42-097c-4621-a3d5-c0b96738ca26)
+
